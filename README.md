@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ofrox
+- 👋 Hi, I’m @ibo
 - 🌱 I’m currently learning ...
 <!---
 Ofrox/Ofrox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
